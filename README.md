@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roland-Jephtha
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python and Django for backend
+- 🌱 I’m currently using python and Django for backend web development
 - 💞️ I’m looking to create python and Django project
 - 📫 email:jephtroland832@gmail.com
      WhatsApp: 08107718731
