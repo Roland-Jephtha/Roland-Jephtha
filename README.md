@@ -95,11 +95,11 @@ I enjoy building products that solve real business problems using Python, Django
 
 ## 📫 Connect With Me
 
-📧 Email: [jephtroland832@gmail.com](mailto:jephtroland832@gmail.com)
+📧 Email: jephtroland832@gmail.com
 
 💬 WhatsApp: +2348140576399
 
-💼 LinkedIn: https://www.linkedin.com/in/jephtha-roland-6a6093200/)
+💼 LinkedIn: https://www.linkedin.com/in/jephtha-roland-6a6093200/
 
 ## ⚡ Professional Goal
 
