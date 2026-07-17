@@ -1,6 +1,6 @@
 # Hi there, I'm Jephtha Roland 👋
 
-## 🚀 Software Engineer | AI EEngineer | AI Automation Engineer
+## 🚀 Software Engineer | AI Engineer | AI Automation Engineer
 
 Passionate Software Engineer specializing in backend development, AI-powered solutions, workflow automation, and scalable web applications.
 
