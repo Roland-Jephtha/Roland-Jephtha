@@ -1,6 +1,6 @@
 # Hi there, I'm Jephtha Roland 👋
 
-## 🚀 Software Engineer | AI Engineer | AI Automation Engineer
+## 🚀 Software Engineer | AI Engineer | Automation Engineer
 
 Passionate Software Engineer specializing in backend development, AI-powered solutions, workflow automation, and scalable web applications.
 
@@ -97,7 +97,6 @@ I enjoy building products that solve real business problems using Python, Django
 
 📧 Email: jephtroland832@gmail.com
 
-💬 WhatsApp: +2348140576399
 
 💼 LinkedIn: https://www.linkedin.com/in/jephtha-roland-6a6093200/
 
